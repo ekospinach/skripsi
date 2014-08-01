@@ -8,12 +8,12 @@ Profile Matching secara umum adalah proses membandingkan kompetensi suatu indivi
 
 ## Laporan Skripsi
 
-Laporan skripsi masih dalam tahap penyusunan.
+Laporan skripsi dapat dilihat [di sini](https://drive.google.com/file/d/0BwehWkK2UkkbNFZCX21Cc0lZTzQ/edit?usp=sharing).
 
 ## Pedoman Menyumbang
 
-Mohon kirim semua isu-isu dan "pull-request" ke [findrakecil/skripsi](http://github.com/findrakecil/skripsi)
+Mohon kirim semua isu-isu dan "pull-request" ke [findrakecil/skripsi](http://github.com/findrakecil/skripsi).
 
 ## Surat Izin
 
-Skripsi ini adalah perangkat lunak sumber terbuka yang telah diizinkan dibawah [surat izin MIT](http://opensource.org/licenses/MIT)
+Skripsi ini adalah perangkat lunak sumber terbuka yang telah diizinkan dibawah [surat izin MIT](http://opensource.org/licenses/MIT).
